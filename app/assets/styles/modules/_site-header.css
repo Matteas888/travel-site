@@ -10,7 +10,7 @@
     }
 
     @mixin atMedium {
-        background-color: rgba($mainBlue , .3);
+        background-color: rgba($mainBlue, .3);
     }
 
     &__btn-container {
